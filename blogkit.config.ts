@@ -4,7 +4,7 @@ import { theme } from "blogkit-theme-minimal";
 
 export default defineConfig({
   siteConfig: {
-    title: "Blogkit Notion Example",
+    title: "2nthony",
   },
   theme,
   request,
