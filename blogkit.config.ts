@@ -9,5 +9,21 @@ export default defineConfig({
     url: "https://2nthony.com",
   },
   theme,
+  themeConfig: {
+    links: [
+      {
+        name: "GitHub",
+        url: "https://github.com/2nthony",
+      },
+      {
+        name: "Twitter",
+        url: "https://twitter.com/_2nthony",
+      },
+      {
+        name: "RSS",
+        url: "/api/rss",
+      },
+    ],
+  },
   request,
 });
