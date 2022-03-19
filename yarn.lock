@@ -107,10 +107,10 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha1-x57Zf380y48robyXkLzDZkdLS3k=
 
-blogkit-notion@*:
-  version "0.4.5"
-  resolved "https://registry.yarnpkg.com/blogkit-notion/-/blogkit-notion-0.4.5.tgz#66bdf44e53f38e1d557fdeda5e04d1e2ec05c6e3"
-  integrity sha512-Td47OjUEsl+53P+8/7w2yRFw7nfpDsm1RCW79ElU99tKtp8b9a150NJU0i3x8KBg0iwEp+a5gvApwBQPEd2jdQ==
+blogkit-notion@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/blogkit-notion/-/blogkit-notion-0.5.0.tgz#4aa2757fe97a516f656415d063ef6ebfb7afd1b1"
+  integrity sha512-Ea3UMVzmFvyySUN8adbnWQ5dtYSl5aqnPcXidLlRtl9FCCofjcH2laPVhyE83XRDTUyr6zqL5T4+PKBlBeqyrg==
   dependencies:
     "@notionhq/client" "^1.0.1"
     lodash "^4.17.21"
