@@ -24,10 +24,18 @@ export default defineConfig({
         url: "https://twitter.com/_2nthony",
       },
       {
+        name: "Newsletter",
+        url: "https://newsletter.2nthony.com",
+      },
+      {
         name: "RSS",
         url: "/api/rss",
       },
     ],
+    introduceHTML: `
+      <p>我是一名普通的程序员，擅长 web 前端开发，现生活在广州。</p>
+      <p>我的目标是真正的成为一名自由职业者，拥有一些小产品，并进入 FIRE(Financial Independence Retire Early) 人生。</p>
+    `,
   },
   request,
 });
