@@ -117,9 +117,9 @@ blogkit-notion@^0.5.1:
     notion-to-md "^2.3.1"
 
 blogkit-theme-minimal@^0.3.2:
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/blogkit-theme-minimal/-/blogkit-theme-minimal-0.3.6.tgz#a7a5b43617d9f208ee00dbd3bab368c5b2edadf4"
-  integrity sha512-DSiJ7YFZCi62zlBNO3zub0VrN8AVhtJRHuFpX8ZzVOuuxXBCit5ACNjsPgEVfiljXNAsdnwBfXZjnRWFOuZ+8g==
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/blogkit-theme-minimal/-/blogkit-theme-minimal-0.3.7.tgz#3ee764985e191aa6e6392d42a808bf96325293e4"
+  integrity sha512-q/zYehBv4NwVgVZvLXJDWoIBRwmjbtwjeY3KORgUvyf7gjafcrThacKD0ROW+Qxtny4k40oK2gHR0c8m9BkNJA==
   dependencies:
     dayjs "^1.10.8"
 
@@ -150,9 +150,9 @@ csstype@^3.0.2:
   integrity sha512-sa6P2wJ+CAbgyy4KFssIb/JNMLxFvKF1pCYCSXS8ZMuqZnMsrxqI2E5sPyoTpxoPU/gVZMzr2zjOfg8GIZOMsw==
 
 dayjs@^1.10.8:
-  version "1.10.8"
-  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.10.8.tgz#267df4bc6276fcb33c04a6735287e3f429abec41"
-  integrity sha512-wbNwDfBHHur9UOzNUjeKUOJ0fCb0a52Wx0xInmQ7Y8FstyajiV1NmK1e00cxsr9YrE9r7yAChE0VvpuY5Rnlow==
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.0.tgz#009bf7ef2e2ea2d5db2e6583d2d39a4b5061e805"
+  integrity sha512-JLC809s6Y948/FuCZPm5IX8rRhQwOiyMb2TfVVQEixG7P8Lm/gt5S7yoQZmC8x1UehI9Pb7sksEt4xx14m+7Ug==
 
 delayed-stream@~1.0.0:
   version "1.0.0"
