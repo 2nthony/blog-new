@@ -24,10 +24,6 @@ export default defineConfig({
         url: "https://twitter.com/_2nthony",
       },
       {
-        name: "Newsletter",
-        url: "https://newsletter.2nthony.com",
-      },
-      {
         name: "RSS",
         url: "/api/rss",
       },
