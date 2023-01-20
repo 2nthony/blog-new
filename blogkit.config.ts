@@ -11,10 +11,10 @@ export default defineConfig({
   theme,
   themeConfig: {
     links: [
-      {
-        name: "Resume",
-        url: "https://2nthony.notion.site/1bc46522121b4975b07f019107358460",
-      },
+      // {
+      //   name: "Resume",
+      //   url: "https://2nthony.notion.site/1bc46522121b4975b07f019107358460",
+      // },
       {
         name: "GitHub",
         url: "https://github.com/2nthony",
