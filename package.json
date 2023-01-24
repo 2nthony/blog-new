@@ -9,6 +9,7 @@
     "export": "npm run build && next export"
   },
   "dependencies": {
+    "@vercel/analytics": "^0.1.8",
     "blogkit": "*",
     "blogkit-notion": "^0.5.1",
     "blogkit-theme-minimal": "^0.3.2",
